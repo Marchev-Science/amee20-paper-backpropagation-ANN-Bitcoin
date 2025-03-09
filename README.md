@@ -1,1 +1,2 @@
 # amee20-paper-backpropagation-ANN-Bitcoin
+The current study demonstrates an approach to predict ask and bid prices using market depth of bitcoin. This approach is less commonly used, as most models are tested with actual prices rather than offer. Intraday data (5 minutes base) was used for Bitcoin cryptocurrency prices. The main modeling tool used is artificial neural network with back propagation.
